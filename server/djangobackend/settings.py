@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost"]
+ALLOWED_HOSTS = ["localhost","yhabc.mybluemix.net","djangoapp99.mybluemix.net"]
 
 
 # Application definition
